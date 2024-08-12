@@ -1,6 +1,6 @@
 plugins:
   - '@semantic-release/commit-analyzer':
     preset:
-      "conventionalcommits"
+      "angular"
   - '@semantic-release/release-notes-generator'
   - '@semantic-release/github'
